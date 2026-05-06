@@ -29,8 +29,8 @@ I am a Computer Science student passionate about building web applications and e
 - Email: lokim2112@gmail.com
 
 ## 🌍 Live Website
-[(Add your Vercel/GitHub Pages link here)](https://portfolio-beta-beige-24.vercel.app/
-)
+[(Add your Vercel/GitHub Pages link here)]https://mallilokesh.github.io/personal-portfolio/
+
 
 ---
 ⭐ If you like this project, feel free to star the repository!
